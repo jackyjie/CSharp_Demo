@@ -9,3 +9,14 @@ D:\StudyCodeFile\CommonTools\CommonTools\obj\Debug\CommonTools.csproj.CoreCompil
 D:\StudyCodeFile\CommonTools\CommonTools\obj\Debug\CommonTools.exe
 D:\StudyCodeFile\CommonTools\CommonTools\obj\Debug\CommonTools.pdb
 D:\StudyCodeFile\CommonTools\CommonTools\obj\Debug\CommonTools.Tools.PingIPs.frmPing.resources
+D:\File\File\Code\GitHub\CSharp_Demo\CommonTools\bin\Debug\CommonTools.exe.config
+D:\File\File\Code\GitHub\CSharp_Demo\CommonTools\bin\Debug\CommonTools.exe
+D:\File\File\Code\GitHub\CSharp_Demo\CommonTools\bin\Debug\CommonTools.pdb
+D:\File\File\Code\GitHub\CSharp_Demo\CommonTools\obj\Debug\CommonTools.Form1.resources
+D:\File\File\Code\GitHub\CSharp_Demo\CommonTools\obj\Debug\CommonTools.Properties.Resources.resources
+D:\File\File\Code\GitHub\CSharp_Demo\CommonTools\obj\Debug\CommonTools.Tools.Convert.GBKConvertUTF8.resources
+D:\File\File\Code\GitHub\CSharp_Demo\CommonTools\obj\Debug\CommonTools.Tools.PingIPs.frmPing.resources
+D:\File\File\Code\GitHub\CSharp_Demo\CommonTools\obj\Debug\CommonTools.csproj.GenerateResource.cache
+D:\File\File\Code\GitHub\CSharp_Demo\CommonTools\obj\Debug\CommonTools.csproj.CoreCompileInputs.cache
+D:\File\File\Code\GitHub\CSharp_Demo\CommonTools\obj\Debug\CommonTools.exe
+D:\File\File\Code\GitHub\CSharp_Demo\CommonTools\obj\Debug\CommonTools.pdb

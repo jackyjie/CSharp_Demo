@@ -53,12 +53,24 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tools\Convert\GBKConvertUTF8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\Convert\GBKConvertUTF8.Designer.cs">
+      <DependentUpon>GBKConvertUTF8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\Convert\GBK\AGBKConvert.cs" />
+    <Compile Include="Tools\Convert\GBK\EncodingRecognize.cs" />
+    <Compile Include="Tools\Convert\GBK\GBKConvert.cs" />
+    <Compile Include="Tools\Convert\GBK\IEncodingRecognize.cs" />
+    <Compile Include="Tools\Convert\GBK\interface.cs" />
     <Compile Include="Tools\PingIPs\frmPing.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Tools\PingIPs\frmPing.Designer.cs">
       <DependentUpon>frmPing.cs</DependentUpon>
     </Compile>
+    <Compile Include="Utils\EncodingUtils.cs" />
     <Compile Include="Utils\FunctionUtils.cs" />
     <Compile Include="Utils\TextUtils.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -73,6 +85,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Tools\Convert\GBKConvertUTF8.resx">
+      <DependentUpon>GBKConvertUTF8.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Tools\PingIPs\frmPing.resx">
       <DependentUpon>frmPing.cs</DependentUpon>
     </EmbeddedResource>

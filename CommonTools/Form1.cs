@@ -32,12 +32,24 @@ namespace CommonTools
             switch (btn.Name)
             {
                 case "btnPing":
-                    using(Form frmPing = new Tools.PingIPs.frmPing())
+                    using(Form frm = new Tools.PingIPs.frmPing())
                     {
-                        frmPing.ShowDialog(); 
+                        frm.ShowDialog(); 
                     }
                     break;
+                case "btnGBK2UTF8":
+                    using (Form frm = new Tools.Convert.GBKConvertUTF8())
+                    {
+                        frm.ShowDialog();
+                    }
+                    break;
+
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
